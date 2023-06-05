@@ -13,8 +13,16 @@ C is one of the common programming languages used in HPC.
 Table of Contents:
 * The Basics - Part One
 	* [Simple example](#simple)
+	* [Data Types](#dt)
+	* [Loops](#loops)
+	* [If Statements](#if)
+	* [Functions](#functions)
+	* [Addresses and Pointers](#add)
+	* [Memory Allocation](#mem)
+	* [Exercises](#exercises)
 
 ### <a name="simple"></a>1. Simple Example
+
 
 ```
 /*------------------------------------------------------------
@@ -54,6 +62,14 @@ An executable is named a.out by default. To view the list of files in a current 
 $ ls
 a.out  simple.c
 ```
+
+### <a name="dt"></a>2. Data Types
+### <a name="loops"></a>3. Loops
+### <a name="if"></a>4. If Statements
+### <a name="functions"></a>5. Functions
+### <a name="add"></a>6. Addresses and Pointers
+### <a name="mem"></a>7. Memory Allocation
+### <a name="exercises"></a>8. Exercises
 
 To run the program, use the following:
 ```
