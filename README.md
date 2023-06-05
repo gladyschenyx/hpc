@@ -63,14 +63,6 @@ $ ls
 a.out  simple.c
 ```
 
-### <a name="dt"></a>2. Data Types
-### <a name="loops"></a>3. Loops
-### <a name="if"></a>4. If Statements
-### <a name="functions"></a>5. Functions
-### <a name="add"></a>6. Addresses and Pointers
-### <a name="mem"></a>7. Memory Allocation
-### <a name="exercises"></a>8. Exercises
-
 To run the program, use the following:
 ```
 #./a.out
@@ -79,4 +71,10 @@ The value of this integer is 3
 Specifying `./` before the command or program name indicates that the program should be found and executed in the current directory.
 
 
-
+### <a name="dt"></a>2. Data Types
+### <a name="loops"></a>3. Loops
+### <a name="if"></a>4. If Statements
+### <a name="functions"></a>5. Functions
+### <a name="add"></a>6. Addresses and Pointers
+### <a name="mem"></a>7. Memory Allocation
+### <a name="exercises"></a>8. Exercises
