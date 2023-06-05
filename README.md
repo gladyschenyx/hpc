@@ -16,10 +16,10 @@ Table of Contents:
 
 ### <a name="simple"></a>1. Simple Example
 
+```
 /*------------------------------------------------------------
 Program that prints the value of an integer to the screen.
 ------------------------------------------------------------*/
-```
 #include <stdio.h>
 
 int main(){
