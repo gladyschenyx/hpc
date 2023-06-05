@@ -11,13 +11,17 @@ C is one of the common programming languages used in HPC.
 Table of Contents:
 * The Basics - Part One
 	* [Simple example](#simple)
-	* [Data Types](#dt)
-	* [Loops](#loops)
-	* [If Statements](#if)
-	* [Functions](#functions)
-	* [Addresses and Pointers](#add)
-	* [Memory Allocation](#mem)
-	* [Exercises](#exercises)
+
+ * [Data Types](#dt)
+	* Basic Data Types
+	* `printf` function
+	* Arrays
+* [Loops](#loops)
+* [If Statements](#if)
+* [Functions](#functions)
+* [Addresses and Pointers](#add)
+* [Memory Allocation](#mem)
+* [Exercises](#exercises)
 
 ### <a name="simple"></a>1. Simple Example
 ```
@@ -68,6 +72,8 @@ Specifying `./` before the command or program name indicates that the program sh
 
 
 ### <a name="dt"></a>2. Data Types
+
+
 ### <a name="loops"></a>3. Loops
 ### <a name="if"></a>4. If Statements
 ### <a name="functions"></a>5. Functions
