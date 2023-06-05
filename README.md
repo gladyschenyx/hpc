@@ -22,8 +22,6 @@ Table of Contents:
 	* [Exercises](#exercises)
 
 ### <a name="simple"></a>1. Simple Example
-
-
 ```
 /*------------------------------------------------------------
 Program that prints the value of an integer to the screen.
