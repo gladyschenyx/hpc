@@ -1,5 +1,3 @@
-# hpc
-
 # Introduction to C Programming
 
 C is a general-purpose programming language initially developed by Dennis Ritchie at Bell Laboratories. 
